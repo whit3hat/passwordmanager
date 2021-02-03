@@ -3,8 +3,11 @@ A simple password manager with a NodeJS application for input.
 
 ## Tasks
 [] Build skeleton database
+
 [] Build Interface for input
+
 [] Encrypt passwords when input into DB
+
 [] Decrypt with setup master pw
 
 
