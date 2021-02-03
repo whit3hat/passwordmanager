@@ -2,13 +2,13 @@
 A simple password manager with a NodeJS application for input.
 
 ## Tasks
-[] Build skeleton database
+- [ ] Build skeleton database
 
-[] Build Interface for input
+- [ ] Build Interface for input
 
-[] Encrypt passwords when input into DB
+- [ ] Encrypt passwords when input into DB
 
-[] Decrypt with setup master pw
+- [ ] Decrypt with setup master pw
 
 
 
